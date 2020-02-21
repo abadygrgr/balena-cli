@@ -1,4 +1,14 @@
 - commits:
+    - subject: Update type deps
+      hash: 4cfca5fed35bf03cd9e071b444422f714f355ae9
+      body: ''
+      footer:
+        Change-type: patch
+        change-type: patch
+      author: Pagan Gazzard
+  version: 11.25.18
+  date: 2020-02-21T00:34:29.701Z
+- commits:
     - subject: Convert lib/actions/auth to typescript
       hash: f9ece2ce7de3d0c2089692e592c70828e92353f9
       body: ''
